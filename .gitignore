@@ -1,0 +1,32 @@
+# Django
+*.pyc
+*~
+__pycache__
+db.sqlite3
+.DS_Store
+cred.py
+local.py
+debug.log
+logs/
+media/
+
+# Backup files
+*.bak
+
+# django-tailwind
+node_modules/
+
+# local cmd
+runserver.cmd
+css_custom.cmd
+
+# bootstrap scss
+bootstrap_source/
+custom_bs.scss
+custom_bs.css.map
+
+# log
+logs/
+
+# environment variable
+.env
